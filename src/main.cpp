@@ -1,6 +1,6 @@
 #include <Arduino.h>
-const int trigPin = 7;
-const int echoPin = 6;
+const int trigPin = 2;
+const int echoPin = 3;
 int err = 0;
 int timeout = 30000;
 
